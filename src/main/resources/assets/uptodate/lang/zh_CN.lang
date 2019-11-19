@@ -74,7 +74,7 @@ tile.uptodate.pressure_plate_dark_oak.name=深色橡木木压力板
 tile.uptodate.pressure_plate_jungle.name=丛林木压力板
 tile.uptodate.pressure_plate_spruce.name=云杉木压力板
 
-tile.uptodate.red_nether_bricks.name==红色地狱砖
+tile.uptodate.red_nether_bricks.name=红色地狱砖
 tile.uptodate.nether_wart_block.name=地狱疣块
 tile.uptodate.magma_block.name=岩浆块
 
@@ -101,7 +101,7 @@ tile.uptodate.stairs_andesite.name=安山岩楼梯
 tile.uptodate.stairs_polished_granite.name=磨制花岗岩楼梯
 tile.uptodate.stairs_polished_diorite.name=磨制闪长岩楼梯
 tile.uptodate.stairs_polished_andesite.name=磨制安山岩楼梯
-tile.uptodate.stairs_red_nether_bricks.name==红色地狱砖楼梯
+tile.uptodate.stairs_red_nether_bricks.name=红色地狱砖楼梯
 tile.uptodate.stairs_prismarine.name=海晶石楼梯
 tile.uptodate.stairs_prismarine_bricks.name=海晶石砖楼梯
 tile.uptodate.stairs_dark_prismarine.name=暗海晶石楼梯
@@ -118,7 +118,7 @@ tile.uptodate.slab_andesite.name=安山岩台阶
 tile.uptodate.slab_polished_granite.name=磨制花岗岩台阶
 tile.uptodate.slab_polished_diorite.name=磨制闪长岩台阶
 tile.uptodate.slab_polished_andesite.name=磨制安山岩台阶
-tile.uptodate.slab_red_nether_bricks.name==红色地狱砖台阶
+tile.uptodate.slab_red_nether_bricks.name=红色地狱砖台阶
 tile.uptodate.slab_end_stone_bricks.name=末地石砖台阶
 tile.uptodate.slab_mossy_stone_bricks.name=苔石砖台阶
 tile.uptodate.slab_mossy_cobblestone.name=苔石台阶
@@ -134,7 +134,7 @@ tile.uptodate.wall_mossy_stone_bricks.name=苔石砖墙
 tile.uptodate.wall_sandstone.name=砂岩墙
 tile.uptodate.wall_red_sandstone.name=红砂岩墙
 tile.uptodate.wall_nether_bricks.name=地狱砖墙
-tile.uptodate.wall_red_nether_bricks.name==红色地狱砖墙
+tile.uptodate.wall_red_nether_bricks.name=红色地狱砖墙
 tile.uptodate.wall_end_stone_bricks.name=末地石砖墙
 tile.uptodate.wall_andesite.name=安山岩墙
 tile.uptodate.wall_diorite.name=闪长岩墙
